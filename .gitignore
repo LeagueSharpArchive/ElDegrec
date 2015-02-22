@@ -1,0 +1,7 @@
+*.chk
+ElDegrec/ElDegrec.sln.ide/edb.log
+*.jrs
+ElDegrec/ElDegrec.sln.ide/storage.ide
+*.exe
+*.suo
+ElDegrec/ElDegrec/App.config
